@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "axios": "0.21.1",
     "framer-motion": "4.1.17",
     "node-modules": "1.0.1",
     "package-lock.json": "1.0.0",
